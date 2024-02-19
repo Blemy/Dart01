@@ -1,6 +1,6 @@
 void main() {
   int a = 70;
-  int b = 80;
+  int b = 100;
 
   if (a < b) {
     print('$a est plus petit $b');
